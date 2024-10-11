@@ -7,6 +7,8 @@ Empresa parceira: **DASA**
 ## Documentos relacionados
 
 * [Escopo do projeto](escopo.md)
+* [Requisitos](requisitos.md)
+* [Agenda](agenda.md)
 * [Rubrica](rubrica.md)
 
 ## Referências
