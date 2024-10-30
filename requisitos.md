@@ -72,6 +72,8 @@ O tutorial que foi executado precisa estar no repositório do projeto em uma pas
 
 * A equipe de MLEng deve implementar a CNN descrita no artigo de referência e comparar os resultados com o modelo baseline. 
 
+* A equipe de MLEng poderá implementar um modelo de rede neural com outras características que não as descritas no artigo de referência e comparar os resultados com o modelo descrito no artigo.
+
 ## Avaliação e apresentação dos resultados
 
 * A equipe de MLEng deve ser capaz de identificar quais são as melhores métricas para avaliação dos modelos.
@@ -100,8 +102,12 @@ O tutorial que foi executado precisa estar no repositório do projeto em uma pas
 
 * Cada equipe deve organizar os entregáveis do projeto em dois repositórios. Este repositório para os dados, scripts e modelos, e um segundo repositório para as aplicações que irão usar o modelo. 
 
-* Os documentos solicitados deverão estar em uma pasta chamada `reports` dentro deste projeto. 
-
-* Os códigos desenvolvidos e que são relacionados ao desenvolvimento dos modelos deverão estar em uma pasta chamada `src` dentro deste projeto. 
-
 * Os dados utilizados neste projeto não poderão ser armazenados no repositório do GitHub. As ferramentas para armazenamento e controle de versão dos dados deverão ser outras. 
+
+## Gestão do projeto
+
+* A equipe do Insper deve manter um kanban do projeto atualizado diariamente. A ferramenta de kanban deve ser a do GitHub Projects. 
+
+* Os commits feitos nos repositórios devem ser feitos de forma organizada e com mensagens claras. 
+
+* Os commits devem ser feitos no mínimo uma vez por dia. 
