@@ -1,10 +1,12 @@
 # Sprint session 4o semestre 2024/2
 
-Tema: **CNN para detecção de deficiência de recombinação homologa (HRD)**
+Tema: **Modelo para detecção de deficiência de recombinação homologa (HRD)**
 
 Empresa parceira: **DASA**
 
 ## Documentos relacionados
+
+Antes de iniciar o projeto, **leiam com atenção os documentos a seguir, em espeical, o documento de Requisitos e o documento da Rubrica**. 
 
 * [Escopo do projeto](escopo.md)
 * [Requisitos](requisitos.md)

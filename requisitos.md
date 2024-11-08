@@ -11,7 +11,9 @@ Todas as equipes serão formadas por 4 estudantes.
     * **MLEng**: Equipe de Machine Learning Engineering. Esta equipe será responsável pelo entendimento dos dados e desenvolvimento do modelo de machine learning. Em algumas organizações, esta equipe também é chamada de equipe de *Data Science*.
     * **MLOps**: Equipe de Machine Learning Operations. Esta equipe será responsável por todos procedimentos relacionados a leitura e atualização de dados e modelos. Em algumas organizações, esta equipe também é chamada de equipe de *Data Engineering*.
 
-As entregas de cada equipe são descritas em maiores detalhes logo abaixo.  
+As entregas de cada equipe são descritas em maiores detalhes logo abaixo.
+
+Todas as entregas devem ser feitas via GitHub. Inclusive relatórios ou questionários. Estes devem ser escritos em [Markdown](https://www.markdownguide.org/). 
 
 ## Compreensão do problema
 
@@ -50,12 +52,11 @@ A equipe da DASA irá disponibilizar o dataset para treinamento e validação em
 
 A equipe do Insper (MLEng e MLOps) precisam entender como funciona e como implementar uma CNN. 
 
-* A equipe do Insper precisa executar pelo menos um dos dois tutoriais abaixo para entender como funciona uma CNN e como implementar uma em Python.
+* A equipe do Insper precisa executar o tutorial abaixo para entender como funciona uma CNN e como implementar uma em Keras:
 
     * https://www.tensorflow.org/tutorials/images/cnn
-    * https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
-O tutorial que foi executado precisa estar no repositório do projeto em uma pasta específica. 
+O tutorial executado precisa estar no repositório do projeto em uma pasta específica. 
 
 * A equipe do Insper precisa entregar um documento que respondendo as seguintes perguntas:
 
@@ -103,6 +104,10 @@ O tutorial que foi executado precisa estar no repositório do projeto em uma pas
 * Cada equipe deve organizar os entregáveis do projeto em dois repositórios. Este repositório para os dados, scripts e modelos, e um segundo repositório para as aplicações que irão usar o modelo. 
 
 * Os dados utilizados neste projeto não poderão ser armazenados no repositório do GitHub. As ferramentas para armazenamento e controle de versão dos dados deverão ser outras. 
+
+* Todos os relatórios precisam ser escritos em Markdown e armazenados no repositório do projeto, inclusive a apresentação final. 
+
+* Os scripts para pré-processamento dos dados, treinamento dos modelos e avaliação dos modelos precisam estar escritos em Python de preferência. Por favor, tentem utilizar o mínimo possível Jupyter Notebook para estas tarefas. O controle de versão dos scripts em Jupyter Notebook é muito difícil de ser feito. Talvez, o único momento onde será necessário usar Jupyter notebook é no pré-processamento dos dados e na análise exploratório. Mesmo assim, recomenda-se salvar um arquivo `.py` com a versão final.
 
 ## Gestão do projeto
 
