@@ -54,15 +54,24 @@ A rubrica deste projeto é dividida por grupos apresentados abaixo.
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
-| Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | Equipe: [-1, 0, +1] |
-| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe: [-1, 0, +1] |
-| Documentação | [Documentação adequada nos repositórios e artefatos do projeto](./requisitos.md#documentação) | 06/12 | Equipe: [-1, 0, +1] |
-| Compreensão do problema | [Participação no curso da DASA](./requisitos.md#compreensão-do-problema) | 06/11 | Individual: [-1, 0] |
-| Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | Individual: [-1, 0, +1] |
-| Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | Individual: [-1, 0, +1] |
+| Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | {OK, NOK} |
+| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | {OK, NOK} |
+| Documentação | [Documentação adequada nos repositórios e artefatos do projeto](./requisitos.md#documentação) | 06/12 | {OK, NOK} |
+| Compreensão do problema | [Participação no curso da DASA por todos os membros da equipe](./requisitos.md#compreensão-do-problema) | 06/11 | {OK, NOK} |
+| Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | {OK, NOK} |
+| Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | {OK, NOK} |
 
+## Regras gerais
 
-Se o estudante faltar mais que 4 aulas durante a sprint então o seu conceito será no máximo B. Se o estudante faltar mais que 6 aulas durante a sprinte então o seu conceito será no máximo C. Se o estudante faltar mais que 8 aulas então estará automaticamente reprovado. 
+Se a equipe ficar com conceito D então todos os membros estão automaticamente reprovados. 
+
+Para as equipes que tiverem conceito C ou superior, os itens de organização da equipe serão utilizados para definir o sinal do conceito (positivo, neutro ou negativo). Se todos os itens de organização da equipe estiverem OK então o conceito será positivo. Se algum item estiver NOK então o conceito será neutro. Se dois itens estiverem NOK então o conceito será negativo. Se três ou quatro itens estiverem NOK então a equipe receberá um conceito a menos do que o conceito obtido na rubrica. Se cinco ou seis itens estiverem NOK então a equipe receberá dois conceitos a menos do que o conceito obtido na rubrica.
+
+## Faltas
+
+Se o estudante faltar mais que 4 aulas durante a sprint então o seu conceito será no máximo B. Se o estudante faltar mais que 6 aulas durante a sprint então o seu conceito será no máximo C. Se o estudante faltar mais que 8 aulas então estará automaticamente reprovado. 
+
+Esta regra pode ser resumida pela equação abaixo: 
 
 $$
 f(faltas)=
