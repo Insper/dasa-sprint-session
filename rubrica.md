@@ -1,6 +1,8 @@
 # Rubrica
 
-A rubrica deste projeto é apresentada nas tabelas a seguir:
+A rubrica deste projeto é dividida por grupos apresentados abaixo. 
+
+## Setup do projeto
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
@@ -10,6 +12,8 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 | Análise exploratória de dados | [Entrega do relatório de análise exploratória de dados](./requisitos.md#análise-exploratória-de-dados) | 22/11 | D |
 | Estrutura dos repositórios | [Cada equipe deve ter dois repositórios: um para o desenvolvimento do modelo e outro para o desenvolvimento das aplicações](./requisitos.md#estrutura-dos-repositórios) | 18/11 | D |
 
+## Aquisição e pré-processamento dos dados
+
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
 | Pré-processamento e armazenamento dos dados | [Garantir que os dados estejam disponíveis e acessíveis para a equipe de MLEng](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 22/11 | C |
@@ -17,12 +21,15 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 | Pré-processamento e armazenamento dos dados | [Definir um sistema de versionamento dos dados e modelos](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 29/11 | A |
 | Modelagem | [Automatizar todo o pipeline end-to-end para criação e avaliação de modelos](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 03/12 | A |
 
+## Desenvolvimento e avaliação dos modelos
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
 | Modelagem | [Implementação de um pipeline para geração de um modelo baseline](./requisitos.md#modelagem) | 29/11 | C |
 | Modelagem | [Implementação da CNN descrita no artigo de referência](./requisitos.md#modelagem) | 06/12 | B |
 | Modelagem | [Implementação de um modelo de rede neural com outras características mas que tenham, no mínimo, um desempenho similar ao modelo descrito no artigo de referência.](./requisitos.md#modelagem) | 06/12 | A |
+
+## Apresentação dos resultados
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
@@ -31,6 +38,8 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 | Apresentação dos resultados | [Apresentar os resultados obtidos com os modelos desenvolvidos](./requisitos.md#avaliação-e-apresentação-dos-resultados) | 06/12 | B |
 | Apresentação dos resultados | [Apresentar os modelos desenvolvidos e comparar os resultados obtidos com os resultados apresentados no artigo](./requisitos.md#avaliação-e-apresentação-dos-resultados) | 06/12 | A |
 | Apresentação dos resultados | [Entregar um relatório técnico em markdown no repositório do projeto](./requisitos.md#avaliação-e-apresentação-dos-resultados) | 06/12 | A |
+
+## Deploy dos sistemas e modelos
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
@@ -41,14 +50,16 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 | Deploy | [Deploy automático da aplicação ao atualizar o branch main](./requisitos.md#deploy) | 03/12 | A |
 | Deploy | [Rotinas de testes automatizados para o site web e para a rotina em lote](./requisitos.md#deploy) | 03/12 | A |
 
+## Organização da equipe
+
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
-| Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | Equipe* |
-| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe* |
-| Documentação | [Documentação adequada dos repositórios](./requisitos.md#documentação) | 06/12 | Equipe* |
-| Compreensão do problema | [Participação no curso da DASA](./requisitos.md#compreensão-do-problema) | 06/11 | Individual* |
-| Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | Individual* |
-| Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | Individual* |
+| Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | Equipe: [-1, 0, +1] |
+| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe: [-1, 0, +1] |
+| Documentação | [Documentação adequada nos repositórios e artefatos do projeto](./requisitos.md#documentação) | 06/12 | Equipe: [-1, 0, +1] |
+| Compreensão do problema | [Participação no curso da DASA](./requisitos.md#compreensão-do-problema) | 06/11 | Individual: [-1, 0] |
+| Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | Individual: [-1, 0, +1] |
+| Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | Individual: [-1, 0, +1] |
 
 
 Se o estudante faltar mais que 4 aulas durante a sprint então o seu conceito será no máximo B. Se o estudante faltar mais que 6 aulas durante a sprinte então o seu conceito será no máximo C. Se o estudante faltar mais que 8 aulas então estará automaticamente reprovado. 
