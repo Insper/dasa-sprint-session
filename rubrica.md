@@ -65,7 +65,13 @@ A rubrica deste projeto é dividida por grupos apresentados abaixo.
 
 Se a equipe ficar com conceito D então todos os membros estão automaticamente reprovados. 
 
-Para as equipes que tiverem conceito C ou superior, os itens de organização da equipe serão utilizados para definir o sinal do conceito (positivo, neutro ou negativo). Se todos os itens de organização da equipe estiverem OK então o conceito será positivo. Se algum item estiver NOK então o conceito será neutro. Se dois itens estiverem NOK então o conceito será negativo. Se três ou quatro itens estiverem NOK então a equipe receberá um conceito a menos do que o conceito obtido na rubrica. Se cinco ou seis itens estiverem NOK então a equipe receberá dois conceitos a menos do que o conceito obtido na rubrica.
+Para as equipes que tiverem conceito C ou superior, os itens de organização da equipe serão utilizados para definir o sinal do conceito (positivo, neutro ou negativo). As regras a serem aplicadas são:
+
+* Se todos os itens de organização da equipe estiverem OK então o conceito será positivo. 
+* Se algum item estiver NOK então o conceito será neutro. 
+* Se dois itens estiverem NOK então o conceito será negativo. 
+* Se três ou quatro itens estiverem NOK então a equipe receberá um conceito a menos do que o conceito obtido na rubrica. 
+* Se cinco ou seis itens estiverem NOK então a equipe receberá dois conceitos a menos do que o conceito obtido na rubrica.
 
 ## Faltas
 
