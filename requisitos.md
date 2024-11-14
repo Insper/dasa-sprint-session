@@ -118,3 +118,11 @@ A equipe do Insper (MLEng e MLOps) precisa entender como funciona e como impleme
 * Os commits devem ser feitos regularmente. Em média, um commit por dia por membro da equipe é o esperado do dia 21/11 até o dia 06/12.
 
 * Todos os membros de todas as equipes devem estar preparados para trabalhar entre 6 até 8 horas por dia no projeto.
+
+## Documentação
+
+* Ambos os repositórios precisam ter arquivos `README.md` com instruções claras de como instalar e executar os códigos.
+
+* Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown.
+
+* Todos os códigos devem ser documentados: (i) forneça nomes claros para as variáveis e funções; (ii) não documente coisas óbvias; (iii) criei documentação de alto nível para funções mais complexas. 

@@ -45,6 +45,7 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 |-------|-----------|-----------------|----------|
 | Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | Equipe* |
 | Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe* |
+| Documentação | [Documentação adequada dos repositórios](./requisitos.md#documentação) | 06/12 | Equipe* |
 | Compreensão do problema | [Participação no curso da DASA](./requisitos.md#compreensão-do-problema) | 06/11 | Individual* |
 | Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | Individual* |
 | Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | Individual* |
