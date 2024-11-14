@@ -50,14 +50,12 @@ A equipe da DASA irá disponibilizar o dataset para treinamento e validação em
 
 ## Modelagem
 
-A equipe do Insper (MLEng e MLOps) precisam entender como funciona e como implementar uma CNN. 
+A equipe do Insper (MLEng e MLOps) precisa entender como funciona e como implementar uma CNN. 
 
 * A equipe do Insper precisa executar o tutorial abaixo para entender como funciona uma CNN e como implementar uma em Keras:
 
     * https://www.tensorflow.org/tutorials/images/cnn
-
-O tutorial executado precisa estar no repositório do projeto em uma pasta específica. 
-
+ 
 * A equipe do Insper precisa entregar um documento que respondendo as seguintes perguntas:
 
     - O que é uma CNN?
@@ -74,6 +72,8 @@ O tutorial executado precisa estar no repositório do projeto em uma pasta espec
 * A equipe de MLEng deve implementar a CNN descrita no artigo de referência e comparar os resultados com o modelo baseline. 
 
 * A equipe de MLEng poderá implementar um modelo de rede neural com outras características que não as descritas no artigo de referência e comparar os resultados com o modelo descrito no artigo.
+
+* O pipeline end-to-end para criação do modelo e avaliação precisa estar automatizado e documentado. 
 
 ## Avaliação e apresentação dos resultados
 
@@ -115,4 +115,6 @@ O tutorial executado precisa estar no repositório do projeto em uma pasta espec
 
 * Os commits feitos nos repositórios devem ser feitos de forma organizada e com mensagens claras. 
 
-* Os commits devem ser feitos no mínimo uma vez por dia. 
+* Os commits devem ser feitos regularmente. Em média, um commit por dia por membro da equipe é o esperado do dia 21/11 até o dia 06/12.
+
+* Todos os membros de todas as equipes devem estar preparados para trabalhar entre 6 até 8 horas por dia no projeto.

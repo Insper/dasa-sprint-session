@@ -6,7 +6,6 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 |-------|-----------|-----------------|----------|
 | Estrutura da Equipe | [Definição da estrutura da equipe](./requisitos.md#estrutura-da-equipe) | 18/11 | D |
 | Compreensão do problema | [Entrega do documento de compreensão do problema em markdown no repositório do projeto](./requisitos.md#compreensão-do-problema) | 22/11 | D |
-| Modelagem | [Entregar o tutorial executado no repositório do projeto](./requisitos.md#modelagem) | 22/11 | D |
 | Modelagem | [Entregar o documento com perguntas sobre CNN em markdown no repositório do projeto](./requisitos.md#modelagem) | 22/11 | D |
 | Análise exploratória de dados | [Entrega do relatório de análise exploratória de dados](./requisitos.md#análise-exploratória-de-dados) | 22/11 | D |
 | Estrutura dos repositórios | [Cada equipe deve ter dois repositórios: um para o desenvolvimento do modelo e outro para o desenvolvimento das aplicações](./requisitos.md#estrutura-dos-repositórios) | 18/11 | D |
@@ -16,6 +15,8 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 | Pré-processamento e armazenamento dos dados | [Garantir que os dados estejam disponíveis e acessíveis para a equipe de MLEng](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 22/11 | C |
 | Pré-processamento e armazenamento dos dados | [Automatizar o pipeline de pré-processamento dos dados](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 29/11 | B |
 | Pré-processamento e armazenamento dos dados | [Definir um sistema de versionamento dos dados e modelos](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 29/11 | A |
+| Modelagem | [Automatizar todo o pipeline end-to-end para criação e avaliação de modelos](./requisitos.md#pré-processamento-e-armazenamento-dos-dados) | 03/12 | A |
+
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|

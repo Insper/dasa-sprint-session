@@ -10,6 +10,8 @@ A execução da sprint é 100% presencial. No calendário abaixo estão marcados
 
 Durante os horários que estão em amarelo qualquer professor poderá fazer a chamada em qualquer horário. A presença e participação do desenvolvimento em sala de aula será um dos critérios de avaliação da sprint.
 
+Todos os membros de todas as equipes devem estar preparados para trabalhar entre 6 até 8 horas por dia no projeto.
+
 ## Calendário de entregas e marcos do projeto
 
 Abaixo são listados algumas datas importantes para esta sprint: 
