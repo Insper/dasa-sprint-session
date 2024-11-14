@@ -33,18 +33,30 @@ A rubrica deste projeto é apresentada nas tabelas a seguir:
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
-| Deploy | [Armazenar as versões dos modelos usando uma ferramenta específica para isto](./requisitos.md#deploy) |  | C |
-| Deploy | [Implementar um site web que demonstra o modelo treinado](./requisitos.md#deploy) |  | B |
-| Deploy | [Implementar uma rotina para análise em lote de imagens](./requisitos.md#deploy) |  | B |
-| Deploy | [Implementar uma infra-estrutura de log para monitoramento do modelo](./requisitos.md#deploy) |  | B |
-| Deploy | [Deploy automático da aplicação ao atualizar o branch main](./requisitos.md#deploy) |  | A |
-| Deploy | [Rotinas de testes automatizados para o site web e para a rotina em lote](./requisitos.md#deploy) |  | A |
+| Deploy | [Armazenar as versões dos modelos usando uma ferramenta específica para isto](./requisitos.md#deploy) | 29/11 | C |
+| Deploy | [Implementar um site web que demonstra o modelo treinado](./requisitos.md#deploy) | 29/11 | B |
+| Deploy | [Implementar uma rotina para análise em lote de imagens](./requisitos.md#deploy) | 29/11 | B |
+| Deploy | [Implementar uma infra-estrutura de log para monitoramento do modelo](./requisitos.md#deploy) | 03/12 | B |
+| Deploy | [Deploy automático da aplicação ao atualizar o branch main](./requisitos.md#deploy) | 03/12 | A |
+| Deploy | [Rotinas de testes automatizados para o site web e para a rotina em lote](./requisitos.md#deploy) | 03/12 | A |
 
 | Grupo | Requisito | Data de entrega | Conceito | 
 |-------|-----------|-----------------|----------|
 | Gestão de projetos | [Manter um kanban atualizado diariamente](./requisitos.md#gestão-de-projetos) | Diário | Equipe* |
+| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe* |
 | Compreensão do problema | [Participação no curso da DASA](./requisitos.md#compreensão-do-problema) | 06/11 | Individual* |
 | Gestão de projetos | [Commits diários e relevantes por parte de todos os integrantes da equipe](./requisitos.md#gestão-de-projetos) | Diário | Individual* |
 | Gestão de projetos | [Commits organizados e claros](./requisitos.md#gestão-de-projetos). Por favor, considerem este [documento](https://bit.ly/insper_commits) de recomendações. | Diário | Individual* |
-| Organização dos repositórios | [Todos os códigos devem ser salvos em arquivos `.py` e todos os relatórios (incluindo apresentação) devem ser escritos em Markdown](./requisitos.md#entregáveis-e-estrutura-dos-repositórios) | 06/12 | Equipe* |
 
+
+Se o estudante faltar mais que 4 aulas durante a sprint então o seu conceito será no máximo B. Se o estudante faltar mais que 6 aulas durante a sprinte então o seu conceito será no máximo C. Se o estudante faltar mais que 8 aulas então estará automaticamente reprovado. 
+
+$$
+f(faltas)=
+\begin{cases}
+Reprovado & \quad \text{if $faltas \geq 9$}\\ 
+C & \quad \text{if $faltas \geq 6$}\\
+B & \quad \text{if $faltas \geq 4$}\\
+\text{Sem limite de conceito} & \quad \text{if $faltas < 4$}
+\end{cases}
+$$
