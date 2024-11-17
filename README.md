@@ -12,7 +12,7 @@ Antes de iniciar o projeto, **leiam com atenção os documentos a seguir, em esp
 * [Requisitos](requisitos.md)
 * [Agenda](agenda.md)
 * [Rubrica](rubrica.md)
-* [Equipes](equipes.pdf)
+* [Equipes](./img/equipes.png)
 
 ## Dataset
 
