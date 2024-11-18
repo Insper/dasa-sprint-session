@@ -24,6 +24,6 @@ Abaixo são listados algumas datas importantes para esta sprint:
 
 ## Ferramenta de comunicação assincrona com a equipe da DASA
 
-Vamos utilizar o Discord para isto. Para ingressar no canal da DASA clique [aqui](https://discord.gg/3MeqS4mb).
+Vamos utilizar o Discord para isto. Para ingressar no canal da DASA clique [aqui](https://discord.gg/yw9dJNN6).
 
 
